@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gohil Bansirajsinh Pradipsinh
+# 👋 Hey, I'm Gohil Bansirajsinh
 
 ## 💻 Flutter Developer | Full Stack Developer | Firebase • MySQL • Blockchain
 
