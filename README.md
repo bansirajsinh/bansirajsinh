@@ -108,4 +108,4 @@ A full-stack family business website built to showcase artistic legacy and busin
 
 - 📧 Email: gohilbansirajsinh@gmail.com
 - 💼 LinkedIn: linkedin.com/in/bansirajsinh-gohil
-- 🌍 Portfolio: https://portfolio-39yi.onrender.com/
+- 🌍 Portfolio: https://bansirajsinh-gohil.vercel.app
